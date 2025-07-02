@@ -69,7 +69,7 @@ Create a `.env` file for sensitive keys (already included for contact form):
 
 ```
 VITE_APP_TITLE=Unmesh Arya Portfolio
-VITE_CONTACT_EMAIL=Nilesharya0@gmail.com
+VITE_CONTACT_EMAIL=your_email@email.com
 VITE_WEB3FORMS_ACCESS_KEY=your-web3forms-access-key
 ```
 
